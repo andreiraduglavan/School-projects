@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1616420888 source:c:\users\andre\onedrive\documents\grivita\main.cpp
+	<iostream>
+	<string.h>
+	<vector>
+	<fstream>
+	<exception>
+	<stdexcept>
+	<stdlib.h>
+	<stdio.h>
+
